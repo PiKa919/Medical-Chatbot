@@ -11,7 +11,7 @@
 
 To ensure a clean and isolated environment for the Chainlit app, it is recommended to use a virtual environment. Follow these steps to set it up:
 # Clone the repository
-git clone https://github.com/your-username/chainlit.git
+git clone https://github.com/PiKa919/Medical-Chatbot.git
 
 # Navigate to the project directory
 ```cd Medical-ChatBot```
